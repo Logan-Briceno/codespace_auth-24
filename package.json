@@ -4,7 +4,7 @@
   "description": "An authentication system totally designed in github codespace.",
   "main": "index.js",
   "scripts": {
-    "test": "index.js"
+    "start": "index.js"
   },
   "keywords": [],
   "author": "",
